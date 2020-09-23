@@ -4,6 +4,8 @@ tinggal bikin database, table, modelnya aja
 
 -udh dibikin git ignorenya juga
 
+-sequelizenya gaperlu init lagi, tinggal bikin model:generate aja
+
 PACKAGE YG PERLU DIIINSTALL DULU SEBELUM DI RUN:
 express
 pg
