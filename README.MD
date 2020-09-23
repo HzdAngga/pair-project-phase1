@@ -6,6 +6,8 @@ tinggal bikin database, table, modelnya aja
 
 -sequelizenya gaperlu init lagi, tinggal bikin model:generate aja
 
+-data schemanya utamanya kyk gambar, tapi boleh diubah sesuai kebutuhan
+
 PACKAGE YG PERLU DIIINSTALL DULU SEBELUM DI RUN:
 express
 pg
@@ -19,6 +21,8 @@ bcrypt(tapi bkn yg js)
 
 FLOW APLIKASINYA :
 game center, web yg menampilkan game game bagus yg bisa dijadikan referensi utk dimainkan
+
+
 
 
 1.  root '/' => halaman utama menampilkan link utk ke list game, login, register, dan welcome message
