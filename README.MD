@@ -4,7 +4,7 @@ tinggal bikin database, table, modelnya aja
 
 -udh dibikin git ignorenya juga
 
-PACKAGE YG SUDAH TERINSTALL :
+PACKAGE YG PERLU DIIINSTALL DULU SEBELUM DI RUN:
 express
 pg
 igdb-api
