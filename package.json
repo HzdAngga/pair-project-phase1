@@ -1,7 +1,7 @@
 {
   "name": "pair-project-phase1",
   "version": "1.0.0",
-  "description": "",
+  "description": "IMPORTANT : -appnya udh ditest dan bisa jalan ya... tp klo ga percaya boleh di test run dulu hehe XD tinggal bikin database, table, modelnya aja",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
     "bcrypt": "^5.0.0",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "express-session": "^1.17.1",
     "igdb-api-node": "^5.0.0",
     "pg": "^8.3.3",
     "sequelize": "^6.3.5"
