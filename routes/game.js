@@ -1,6 +1,7 @@
 const router = require('express').Router()
 const GameControl = require('../controllers/game')
 
-router.get('/', GameControl.home)
+router.get('/:id/add/:game', GameControl.add)
+router.get('/:id', GameControl.home)
 
 module.exports = router
