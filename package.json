@@ -2,9 +2,10 @@
   "name": "pair-project-phase1",
   "version": "1.0.0",
   "description": "IMPORTANT : -appnya udh ditest dan bisa jalan ya... tp klo ga percaya boleh di test run dulu hehe XD tinggal bikin database, table, modelnya aja",
-  "main": "index.js",
+  "main": "app.js.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
